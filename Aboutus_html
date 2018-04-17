@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Teesside Used Motors</title>
+<link rel="stylesheet" type="text/css" href="AboutUs.css"></head>
+<input type="text" name="search" placeholder="Car Search..">
+<body>
+<div class="site">
+<header class="masthead">
+<div class="topnav" id="myTopnav">
+<div class="nav-wrapper">
+<div class="quick-contact">Tel: 01753 525252</div>
+<div class="linkMenu">
+<a href="index.html" class="activate">Home</a>
+<a href="contact.html">About</a>
+<a href="contact.html">Contact us</a>
+<a href="contact.html">Vehicle listings</a>
+<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction2()">&#9776;</a>
+</div>
+</div>
+</div>
+</header><!-- .masthead -->
+<header>
+<img src="WMD_17_images/logo.png" alt="teessidemotors" style="width:100%;">
+</header>
+<article>
+<div class="a">
+<h1>About Us</h1>
+<p>We are a new car garage based in Middlesbourgh and we are a leading car garage that is in contact with car manufactures around the globe such as Citreon, Ford, Audis and many more.
+We help our customers in the north east region where they are able to find the best cars for the best prices for the own financial situation. 
+On the contact page and the vehicl listing page you will be able to see where we are located and what cars are nearest in ypur area and if we will be able to deliver them to the garage.
+</p>
+<p>Our team consist of: 
+Manger "Kieth Bonard"
+Has worked at the company for 9 years and has done an excellent job by making the company poipular in the north east.</p>
+<img src="WMD_17_images/project-managers.png" style="width:50%">
+<p>Assistant Manager "Mary Willhelm"
+Has been working at the company for 3 years and she is excellent with helping the company bring in more customers.</p>
+<img src="WMD_17_images/Businesswoman_isolated.png" style="width:50%">
+<p>Head of Marketting "Sue Saxon"
+She has been working dor only a year but has made the company a lot of money by bribnging in 2nd hand cars and making them affordable for people in different walks in life.</p>
+<img src="WMD_17_images/screen-shot-2018-01-10-at-161335png.png" style="width:50%">
+<p>Head of Engerniering "Mark Tompson"
+Has worked at the company for 7 years and is a skilled woker and engineer and has always had good reviews from cars that have been brought in to be fixed.</p>
+<img src="WMD_17_images/tampa-fl-locksmith.png" style="width:50%">
+
+<p>We are always hard at work to keep our audience informed with the latest deals on the market and also showing new advertisments for customers to contact us on the deals we have on the new cars with the other car manufacturers.</p>
+<p>We as a company are able to compete with other garages across the country and also in Middlesbourgh as we beat prices and also help customers with finding the right car and the right costs that they can afford and also will last them a long time.</p>
+<p>The team who underwent producing this website include "Micheal Watterson, Simon Dean, Liam Llewellyn and Miles Pinkney".</p>
+<p>Our company is based in the centre of Middlesbourgh opposite Teesside University.</p>
+<header>
+<iframe
+width="600"
+height="450"
+frameborder="0" style"border:0"
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2312.8863046148967!2d-1.237416048354844!3d54.5707554801568!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487eed10770a3edd%3A0x28e227d64fd10a0c!2sTeesside+University!5e0!3m2!1sen!2suk!4v1523789084605" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</iframe>
+</header>
+</article>
+<footer>
+<a href="https://en-gb.facebook.com/"></a>       <a href="https://twitter.com/login?lang=en-gb"></a>       <a href="https://www.instagram.com/?hl=en"></a>
+</footer>
+</body>
+</html>
+
